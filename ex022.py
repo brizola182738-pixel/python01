@@ -6,3 +6,4 @@ print('Seu nome ao todo tem {}'.format(len(nome) - nome.count(' ')))
 print('seu primeiro nome tem {} letras'.format(nome.find(' ')))
 
 
+
