@@ -7,4 +7,5 @@ if media >= 7.0 :
 elif media > 5.0 < 7.0:
     print('Você esta de RECUPERAÇÃO!')
 elif media <5.0:
-    print('você esta REPROVADO!')
+    print('você esta \033[31;40m REPROVADO\033[m!')
+
